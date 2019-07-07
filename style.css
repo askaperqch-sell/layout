@@ -1038,6 +1038,10 @@ a.instagramm {background-position: -8px;}
 }
 
 @media (max-width: 850px) {
+	
+input {
+	width: 250px;
+}
 
 #face {
 	flex-direction: column-reverse;
@@ -1052,7 +1056,7 @@ a.instagramm {background-position: -8px;}
 #request-call-blank {
 		width: 100%;
 		margin: 0;
-		height: 300px;
+		height: 400px;
 }
 
 #request-call-blank p {
